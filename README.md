@@ -41,8 +41,8 @@
 현재 시제로 명확하고 간결하게 작성 (50자 이내 권장). 문장 끝에 마침표는 찍지 않음.
 
 **예시**
-- feat(eda): Add distribution plots for key features
-- fix(preprocessing): Handle missing values in sales_data.csv
-- docs: Update README with setup instructions
-- data: Add new customer survey data from Q1 2025
-- viz(report): Improve clarity of monthly sales trend chart
+- [feat(eda)] Add distribution plots for key features
+- [fix(preprocessing)] Handle missing values in sales_data.csv
+- [docs] Update README with setup instructions
+- [data] Add new customer survey data from Q1 2025
+- [viz(report)] Improve clarity of monthly sales trend chart
