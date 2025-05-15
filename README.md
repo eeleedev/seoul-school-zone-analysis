@@ -1,4 +1,21 @@
 # Seoul School Zone Analysis
+## 디렉토리 구조
+```
+.
+├── README.md                # 프로젝트 개요, 실행 방법, 주요 결과 요약
+├── .gitignore               # Git에서 추적하지 않을 파일/폴더 목록 (대용량 데이터, 가상환경 등)
+├── data/
+│   ├── processed/           # 전처리된 데이터
+│   ├── interim/             # 중간 결과물 데이터
+│   └── additional/          # 추가 데이터
+├── notebooks/               # Jupyter Notebooks
+│   └── EDA/                 # EDA 관련 노트북들을 모아둘 하위 폴더
+├── reports/                 # 최종 분석 보고서 (docx, PDF 등)
+│   └── figures/             # 보고서에 사용된 이미지, 플롯
+└── references/              # 참고 문서 (공개 가능한 참고 문서)
+```
+
+
 ## 커밋 메시지 컨벤션 (Commit Message Convention)
 
 ### 타입 (Type):
